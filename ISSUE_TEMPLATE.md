@@ -1,0 +1,14 @@
+- Nome do projeto : Ponte H 
+- Nome do Aluno : rafael Corsi
+- Nome do Orientador: rafael Corsi
+- Link para arquivos : 
+- Software Gerado 
+ - [x] Eagle
+ - [ ] Orcad
+ - [ ] Outboard
+- Configurações
+- [ ] Dupla Face  
+- [x] Máscara 
+- [ ] Legenda
+- [x] Trilha RF
+
