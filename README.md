@@ -10,6 +10,8 @@ Informações e pedidos de prototipagem de placas de circuito impressa (PCB) na 
 **30/5/2016 : Prototipagem Completa**
     - Recebimento de pedidos até : 25/5
 
+![Calendario 2 bimestre](https://github.com/NSEE/LPKF/blob/master/Calendarios/calendario1.png)
+
 ## Informações Gerais
 
 Existem datas definidas da prototipagem das PCBs, sendo que em cada data um tipo diferente de prototipagem é executado:
