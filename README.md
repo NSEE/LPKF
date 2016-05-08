@@ -40,12 +40,9 @@ Modo completo de prototipagem de PCBs, sendo realizado o processo completo de pr
 - Máscara de solda
 - Verniz
 
-## Materiais
+# Pedido de prototipagem 
 
-Os seguintes materiais podem ser escolhidos para a prototipagem, o material vai depender do acabamento (face simples/dupla face):
-
-- Fenolite
-- Fibra de vidro 
+Todos os pedidos de prototipagem devem ser submetidos via repositório github, seguindo o tutorial a seguir : [link](https://github.com/NSEE/LPKF/wiki/Pedido-de-prototipagem).
 
 ## Responsáveis 
 
@@ -53,7 +50,4 @@ Os seguintes materiais podem ser escolhidos para a prototipagem, o material vai 
 - Prof. Rafael Corsi Ferrão
 - Everton Fracaroli
 
-## Pedido de prototipagem 
-
-Todos os pedidos de prototipagem devem ser submetidos via repositório github : [link](https://github.com/NSEE/LPKF).
 
