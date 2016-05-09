@@ -23,6 +23,10 @@
  - [ ] UltiBoard
  - [ ] Outro
 
+- Tipo de prototipagem
+ - [ ] Simples
+ - [ ] Completa
+
 - Descrição :
  - [ ] Face Simples
  - [ ] Dupla Face
