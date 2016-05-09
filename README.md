@@ -21,8 +21,6 @@ Existem datas definidas da prototipagem das PCBs, sendo que em cada data um tipo
 
 Os pedidos de prototipagem devem ser enviados com uma semana de antecedência do fechamento, caso contrário, o pedido ficará pendente para a próxima data mais próxima.
 
-
-
 ### Prototipagem Simples
 
  Modo utilizada para validação de conceito, onde a PCB é usinada porém nenhuma mascara ou verniz é aplicado. O que pode ser feito nesse tipo de prototipagem:
@@ -40,14 +38,20 @@ Modo completo de prototipagem de PCBs, sendo realizado o processo completo de pr
 - Máscara de solda
 - Verniz
 
+### Configurações da LPKF
+ 
+- https://github.com/NSEE/LPKF/wiki/Informa%C3%A7%C3%B5es-LPKF-S62
+
 # Pedido de prototipagem 
 
-Todos os pedidos de prototipagem devem ser submetidos via repositório github, seguindo o tutorial a seguir : [link](https://github.com/NSEE/LPKF/wiki/Pedido-de-prototipagem).
+Todos os pedidos de prototipagem devem ser submetidos via repositório github, seguindo o tutorial a seguir :
+
+- https://github.com/NSEE/LPKF/wiki/Pedido-de-prototipagem.
 
 ## Responsáveis 
 
-- Prof. Sergio Ribeiro Augusto
-- Prof. Rafael Corsi Ferrão
-- Everton Fracaroli
+- Prof. Sergio Ribeiro Augusto : sergioribeiro@maua.br
+- Prof. Rafael Corsi Ferrão : rafael.corsi@maua.br
+- Everton Fracaroli : fracaroli@maua.br
 
 
