@@ -39,6 +39,8 @@ Modo completo de prototipagem de PCBs, sendo realizado o processo completo de pr
 - Verniz
 
 ### Configurações da LPKF
+
+As propriedades básicas da prototipagem na LPKF, como : largura mínima de trilha, tamanho possíveis de furo, podem ser encontradas no link a seguir :
  
 - https://github.com/NSEE/LPKF/wiki/Informa%C3%A7%C3%B5es-LPKF-S62
 
