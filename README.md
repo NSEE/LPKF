@@ -2,7 +2,7 @@
 
 Informações e pedidos de prototipagem de placas de circuito impressa (PCB) na LPKF da Elétrica - IMT.
 
-## DATAS Próximas fornadas :
+## DATAS Próximas prototipagens :
 
 **16/5/2016 : Prototipagem Simples**
     - Recebimento de pedidos até : 11/5
