@@ -1,14 +1,33 @@
-- Nome do projeto : Ponte H 
-- Nome do Aluno : rafael Corsi
-- Nome do Orientador: rafael Corsi
+# Sobre :
+
+- Nome do Aluno : 
+- R.A :
+- Habilitação : 
+- Ano : 
+- Nome do Orientador: 
+- Nome do Projeto :
+
+# PCB :
+
+- Nome da Placa :
 - Link para arquivos : 
-- Software Gerado 
- - [x] Eagle
+
+## Informações básicas
+
+- Pequeno descritivo sobre a placa :
+
+- Software utilizado 
+ - [ ] Altium
+ - [ ] Eagle
  - [ ] Orcad
- - [ ] Outboard
-- Configurações
-- [ ] Dupla Face  
-- [x] Máscara 
-- [ ] Legenda
-- [x] Trilha RF
+ - [ ] UltiBoard
+ - [ ] Outro
+
+- Descrição :
+ - [ ] Face Simples
+ - [ ] Dupla Face
+ - [ ] SMD
+ - [ ] Trilha RF
+ - [ ] Máscara 
+
 
