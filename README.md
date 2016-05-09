@@ -14,16 +14,16 @@ Informações e pedidos de prototipagem de placas de circuito impressa (PCB) na 
 
 ## Informações Gerais
 
-Existem datas definidas da prototipagem das PCBs, sendo que em cada data um tipo diferente de prototipagem é executado:
+Existem datas definidas da prototipagem das PCBs sendo que, em cada data, um tipo diferente de prototipagem é executado:
 
 1. Prototipagem Simples
 2. Prototipagem Completa
 
-Os pedidos de prototipagem devem ser enviados com uma semana de antecedência do fechamento, caso contrário, o pedido ficará pendente para a próxima data mais próxima.
+Os pedidos de prototipagem devem ser enviados com 5 dias de antecedência do fechamento, caso contrário, o pedido ficará pendente para a próxima data mais próxima.
 
 ### Prototipagem Simples
 
- Modo utilizada para validação de conceito, onde a PCB é usinada porém nenhuma mascara ou verniz é aplicado. O que pode ser feito nesse tipo de prototipagem:
+ Modo utilizado para validação de conceito, onde a PCB é usinada porém nenhuma máscara ou verniz é aplicado. O que pode ser feito nesse tipo de prototipagem:
 
 - Placa de face simples
 - Placa de dupla face
@@ -32,7 +32,7 @@ Os pedidos de prototipagem devem ser enviados com uma semana de antecedência do
 
 ### Prototipagem Completa
 
-Modo completo de prototipagem de PCBs, sendo realizado o processo completo de prototipagem, o que inclui :
+Modo completo de prototipagem de PCBs, sendo realizado o processo completo de prototipagem, o que inclui:
 
 - Silk Screen 
 - Máscara de solda
@@ -40,7 +40,7 @@ Modo completo de prototipagem de PCBs, sendo realizado o processo completo de pr
 
 ### Configurações da LPKF
 
-As propriedades básicas da prototipagem na LPKF, como : largura mínima de trilha, tamanho possíveis de furo, podem ser encontradas no link a seguir :
+As propriedades básicas da prototipagem na LPKF, como: largura mínima de trilha, tamanho possíveis de furo, etc, podem ser encontradas no link a seguir :
  
 - https://github.com/NSEE/LPKF/wiki/Informa%C3%A7%C3%B5es-LPKF-S62
 
