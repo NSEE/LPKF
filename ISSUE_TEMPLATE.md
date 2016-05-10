@@ -6,6 +6,7 @@
 - Ano : 
 - Nome do Orientador: 
 - Nome do Projeto :
+- Nome da Disciplina  :
 
 # PCB :
 
@@ -17,21 +18,21 @@
 - Pequeno descritivo sobre a placa :
 
 - Software utilizado 
- - [ ] Altium
- - [ ] Eagle
- - [ ] Orcad
- - [ ] UltiBoard
- - [ ] Outro
+ - ( ) Altium
+ - ( ) Eagle
+ - ( ) Orcad
+ - ( ) UltiBoard
+ - ( ) Outro
 
 - Tipo de prototipagem
- - [ ] Simples
- - [ ] Completa
+ - ( ) Simples
+ - ( ) Completa
 
 - Descrição :
- - [ ] Face Simples
- - [ ] Dupla Face
- - [ ] SMD
- - [ ] Trilha RF
- - [ ] Máscara 
+ - ( ) Face Simples
+ - ( ) Dupla Face
+ - ( ) SMD
+ - ( ) Trilha RF
+ - ( ) Máscara 
 
 
