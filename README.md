@@ -31,6 +31,7 @@ Os pedidos de prototipagem devem ser enviados com 5 dias de antecedência do fec
 - Placas com plano de terra
 
 ### Prototipagem Completa
+**(esse modo requer autorização do orientador/professor)**
 
 Modo completo de prototipagem de PCBs, sendo realizado o processo completo de prototipagem, o que inclui:
 
