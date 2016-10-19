@@ -17,7 +17,7 @@ As prototipagem serão realizadas todas as terças feiras, com recebimento de no
 Existem datas definidas da prototipagem das PCBs sendo que, em cada data, um tipo diferente de prototipagem é executado:
 
 1. Prototipagem Simples
-2. Prototipagem Completa
+2. ~~Prototipagem Completa~~
 
 Os pedidos de prototipagem devem ser enviados com 5 dias de antecedência do fechamento, caso contrário, o pedido ficará pendente para a próxima data mais próxima.
 
