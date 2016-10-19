@@ -9,7 +9,8 @@ As prototipagem serão realizadas todas as terças feiras, com recebimento de no
 ## Status atual da LPKF
 
 ```diff
- - Estamos com um problema de calibração do fiducial e a prototipagem de duas faces está suspensa até a solução do problema.
+ - Estamos com um problema de calibração do fiducial e a prototipagem de
+   duas faces está suspensa até a solução do problema.
 ```
 
 ## Informações Gerais
