@@ -2,15 +2,15 @@
 
 Informações e pedidos de prototipagem de placas de circuito impressa (PCB) na LPKF da Elétrica - IMT.
 
-## DATAS Próximas prototipagens :
+## Data prototipagens :
 
-**16/5/2016 : Prototipagem Simples**
-    - Recebimento de pedidos até : 11/5
+As prototipagem serão realizadas todas as terças feiras, com recebimento de novos pedidos até a 0 horas de domingo. Caso o pedido seja realizado entre segunda e terça ficará agendando para a terça feira da próxima semana.
 
-**30/5/2016 : Prototipagem Completa**
-    - Recebimento de pedidos até : 25/5
+## Status atual da LPKF
 
-![Calendario 2 bimestre](https://github.com/NSEE/LPKF/blob/master/Calendarios/calendario1.png)
+```html
+ Estamos com um problema de calibração do fiducial e a prototipagem de duas faces está suspensa até a solução do problema.
+```
 
 ## Informações Gerais
 
