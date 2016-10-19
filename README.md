@@ -26,18 +26,18 @@ Os pedidos de prototipagem devem ser enviados com 5 dias de antecedência do fec
  Modo utilizado para validação de conceito, onde a PCB é usinada porém nenhuma máscara ou verniz é aplicado. O que pode ser feito nesse tipo de prototipagem:
 
 - Placa de face simples
-- Placa de dupla face
+- ~~Placa de dupla face~~
 - Furo metalizado
 - Placas com plano de terra
 
-### Prototipagem Completa
+### ~~Prototipagem Completa~~
 **(esse modo requer autorização do orientador/professor)**
 
-Modo completo de prototipagem de PCBs, sendo realizado o processo completo de prototipagem, o que inclui:
+~~Modo completo de prototipagem de PCBs, sendo realizado o processo completo de prototipagem, o que inclui:
 
-- Silk Screen 
-- Máscara de solda
-- Verniz
+- ~~Silk Screen ~~
+- ~~Máscara de solda~~
+- ~~Verniz~~
 
 ### Configurações da LPKF
 
