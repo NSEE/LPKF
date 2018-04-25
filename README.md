@@ -1,3 +1,9 @@
+## Status atual da LPKF 25/04/2018 EM MANUTENÇÃO
+```diff
+  - Estamos com um problema de calibração das brocas fiducial e a prototipagem de
+   está suspensa até a solução do problema.
+```
+
 # Prototipagem PCB - Elétrica - IMT
 
 Informações e pedidos de prototipagem de placas de circuito impressa (PCB) na LPKF da Elétrica - IMT.
