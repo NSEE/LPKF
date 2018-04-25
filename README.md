@@ -1,6 +1,6 @@
 ## Status atual da LPKF 25/04/2018 EM MANUTENÇÃO
 ```diff
-  - Estamos com um problema de calibração das brocas fiducial e a prototipagem de
+  - Estamos com um problema de calibração das brocas e a prototipagem de
    está suspensa até a solução do problema.
 ```
 
